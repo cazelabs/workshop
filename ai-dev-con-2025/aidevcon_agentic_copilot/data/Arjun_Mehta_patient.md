@@ -1,0 +1,4 @@
+- · Name: Mr. Arjun Mehta
+- · Age: 50
+- · Symptoms: Sudden onset of shortness of breath and chest pain
+- · Diagnosis: CT pulmonary angiography confirms the presence of a subsegmental pulmonary embolism (PE)
